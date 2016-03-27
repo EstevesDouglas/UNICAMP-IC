@@ -1,2 +1,11 @@
 23.03.2016
-Examples
+
+
+Normalização - Aula 06 - Bancos de Dados 2016.1
+https://www.youtube.com/watch?v=MnfUKZfv92w
+
+Cálculo Relacional - Aula 06 - Bancos de Dados 2016.1
+https://www.youtube.com/watch?v=hYogueV5B8Q
+
+Álgebra Relacional - Aula 06 - Bancos de Dados 2016.1
+https://www.youtube.com/watch?v=TS_GpZ9raug
